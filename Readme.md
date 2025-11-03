@@ -166,8 +166,8 @@ The text processor in `google_maps_scraper.py` includes:
 
 ## 🧑‍💻 Author
 
-**Your Name**  
-📧 *[youremail@example.com]*  
+**Mohamed Hamada**  
+📧 *bohamada0100@gmail.com*  
 💻 Built with ❤️ using Python, Selenium, and Tkinter.
 
 ---
@@ -218,3 +218,4 @@ python review_analyzer_gui.py
 ---
 
 ✨ **Enjoy scraping, cleaning, and analyzing Google Maps reviews with ease!**
+
