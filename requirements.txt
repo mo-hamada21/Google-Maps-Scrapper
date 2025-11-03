@@ -1,0 +1,8 @@
+pandas
+requests
+streamlit
+langdetect
+selenium
+camel-tools
+textblob
+langdetect
